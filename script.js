@@ -77,4 +77,4 @@ pokemonInput.addEventListener('keypress', (e) => {
     }
 });
 
-fetchPokemon('pikachu');
+fetchPokemon('Mew');
